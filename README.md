@@ -2,6 +2,6 @@
 First Repository in Github
 
 
-Tahmid Chowdhury
+Name: Tahmid Chowdhury
 ID: 047
 Floor: 18
